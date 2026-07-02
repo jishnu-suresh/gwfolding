@@ -4,6 +4,13 @@
   <img src="https://raw.githubusercontent.com/jishnu-suresh/gwfolding/main/assets/logo.png" alt="gwfolding logo" width="360">
 </p>
 
+<p align="center">
+  <a href="https://pypi.org/project/gwfolding/"><img src="https://img.shields.io/pypi/v/gwfolding.svg" alt="PyPI version"></a>
+  <a href="https://pypi.org/project/gwfolding/"><img src="https://img.shields.io/pypi/pyversions/gwfolding.svg" alt="Python versions"></a>
+  <a href="https://gwfolding.readthedocs.io/en/latest/"><img src="https://readthedocs.org/projects/gwfolding/badge/?version=latest" alt="Documentation status"></a>
+  <a href="https://github.com/jishnu-suresh/gwfolding/blob/main/LICENSE"><img src="https://img.shields.io/pypi/l/gwfolding.svg" alt="License: MIT"></a>
+</p>
+
 Folding of **Stochastic Intermediate Data (SID)** frames to one sidereal day for
 stochastic gravitational-wave searches. The output can be written as folded SID
 (`.gwf`) frames.
