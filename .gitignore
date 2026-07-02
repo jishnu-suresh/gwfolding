@@ -1,0 +1,8 @@
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
