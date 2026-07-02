@@ -11,8 +11,8 @@ sys.path.insert(0, os.path.abspath(".."))
 project = "gwfolding"
 author = "Anirban Ain, Prathamesh Dalvi, Sanjit Mitra, Erik Floden"
 copyright = "2026, Anirban Ain, Prathamesh Dalvi, Sanjit Mitra"
-release = "0.1.0"
-version = "0.1.0"
+release = "0.1.1"
+version = "0.1.1"
 
 # -- General configuration ---------------------------------------------------
 extensions = [
