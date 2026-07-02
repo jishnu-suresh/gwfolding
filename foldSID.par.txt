@@ -1,0 +1,13 @@
+SIDMetaDataFile /home/jishnu.suresh/O4_testbed/TS_Random_O4b/SID_MetaData.txt
+segmentDuration 192
+ifo1 H1
+ifo2 L1
+FSIDFramePrefix /home/jishnu.suresh/O4_testbed/TS_Random_O4b/FSID_Frames/
+segmentsPerFrame 1
+FSIDGPSOffset 1396809233
+version 1
+ovlWinCorrection 1
+identicalNeighbors 1
+backwardCompatible 1
+FSIDJobFile /home/jishnu.suresh/O4_testbed/TS_Random_O4b/FSID_jobfile.txt
+badGPSTimesFile /home/jishnu.suresh/O4_testbed/TS_Random_O4b/badGPStimes.txt

@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gwfolding"
+version = "0.1.0"
+description = "Folding of Stochastic Intermediate Data (SID) to one sidereal day for stochastic gravitational-wave searches."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+    { name = "Anirban Ain" },
+    { name = "Prathamesh Dalvi" },
+    { name = "Sanjit Mitra" },
+    { name = "Erik Floden" },
+]
+maintainers = [
+    { name = "Jishnu Suresh", email = "jishnu.suresh@ligo.org" },
+]
+keywords = ["gravitational-waves", "stochastic", "ligo", "folding", "sidereal"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Astronomy",
+]
+dependencies = [
+    "numpy",
+    "scipy",
+]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[project.urls]
+Homepage = "https://github.com/jishnu-suresh/gwfolding"
+Source = "https://github.com/jishnu-suresh/gwfolding"
+Issues = "https://github.com/jishnu-suresh/gwfolding/issues"
+
+[tool.setuptools]
+packages = ["gwfolding"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
