@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: gwfolding
+abstract: >-
+  Folding of Stochastic Intermediate Data (SID) to one sidereal day for
+  stochastic gravitational-wave searches.
+authors:
+  - family-names: Ain
+    given-names: Anirban
+  - family-names: Dalvi
+    given-names: Prathamesh
+  - family-names: Mitra
+    given-names: Sanjit
+license: MIT
+repository-code: "https://github.com/jishnu-suresh/gwfolding"
+preferred-citation:
+  type: article
+  title: "Fast gravitational wave radiometry using data folding"
+  authors:
+    - family-names: Ain
+      given-names: Anirban
+    - family-names: Dalvi
+      given-names: Prathamesh
+    - family-names: Mitra
+      given-names: Sanjit
+  journal: "Physical Review D"
+  volume: 92
+  issue: 2
+  start: "022003"
+  year: 2015
+  month: 7
+  doi: "10.1103/PhysRevD.92.022003"
+  identifiers:
+    - type: other
+      value: "arXiv:1504.01714"
