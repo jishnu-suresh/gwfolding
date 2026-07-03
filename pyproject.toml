@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "gwfolding"
-version = "0.1.1"
+version = "0.1.2"
 description = "Folding of Stochastic Intermediate Data (SID) to one sidereal day for stochastic gravitational-wave searches."
 readme = "README.md"
 requires-python = ">=3.8"
@@ -13,7 +13,6 @@ authors = [
     { name = "Anirban Ain" },
     { name = "Prathamesh Dalvi" },
     { name = "Sanjit Mitra" },
-    { name = "Erik Floden" },
 ]
 maintainers = [
     { name = "Jishnu Suresh", email = "jishnu.suresh@ligo.org" },
