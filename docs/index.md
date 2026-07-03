@@ -19,6 +19,7 @@ Mathematical details are described in the LIGO technical document **T0900093**.
 installation
 usage
 api
+citation
 ```
 
 ## Indices
