@@ -9,10 +9,10 @@ sys.path.insert(0, os.path.abspath(".."))
 
 # -- Project information -----------------------------------------------------
 project = "gwfolding"
-author = "Anirban Ain, Prathamesh Dalvi, Sanjit Mitra, Erik Floden"
+author = "Anirban Ain, Prathamesh Dalvi, Sanjit Mitra"
 copyright = "2026, Anirban Ain, Prathamesh Dalvi, Sanjit Mitra"
-release = "0.1.1"
-version = "0.1.1"
+release = "0.1.2"
+version = "0.1.2"
 
 # -- General configuration ---------------------------------------------------
 extensions = [
